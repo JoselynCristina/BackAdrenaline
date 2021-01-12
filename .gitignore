@@ -1,0 +1,4 @@
+node_modules
+assets
+config/env.sh
+test_logs.js
